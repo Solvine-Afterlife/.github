@@ -19,7 +19,3 @@
   Luxinity Roleplay is a SA:MP Server Based in 2022 Los Santos & Red Country.
 </p>
 
-<p align="center">
-  <a href="https://open.mp"><strong>open.mp »</strong></a>
-</p>
-
