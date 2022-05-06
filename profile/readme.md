@@ -1,5 +1,5 @@
 <p align="center">
-  <a aria-label="open.mp logo" href="https://discord.gg/U7nXFpDrXd">
+  <a aria-label="luxinity logo" href="https://discord.gg/U7nXFpDrXd">
     <img src="https://media.discordapp.net/attachments/846736449705082920/967445380751056896/LX.png?width=220&height=220"/>
   </a>
 </p>
