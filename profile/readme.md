@@ -1,11 +1,11 @@
 <p align="center">
-  <a aria-label="luxinity logo" href="https://discord.gg/U7nXFpDrXd">
-    <img src="https://media.discordapp.net/attachments/846736449705082920/967445380751056896/LX.png?width=220&height=220"/>
+  <a aria-label="sal logo" href="https://discord.gg/U7nXFpDrXd">
+    <img src="https://media.discordapp.net/attachments/1034440354956591111/1053239564598247514/2.png?width=468&height=468"/>
   </a>
 </p>
 
 <p align="center">
-  <em>Luxinity</em>
+  <em>Solvine Alterlife</em>
 </p>
 
 <p align="center">
@@ -16,6 +16,6 @@
 </p>
 
 <p align="center">
-  Luxinity Roleplay is a SA:MP Server Based in 2022 Los Santos & Red Country.
+  Solvine Alterlife Roleplay is a SA:MP Server Based in 2022 with oldschool theme.
 </p>
 
