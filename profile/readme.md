@@ -16,6 +16,6 @@
 </p>
 
 <p align="center">
-  Solvine Alterlife Roleplay is a SA:MP Server Based in 2022 with oldschool theme.
+  Solvine Alterlife Roleplay is a Universe Community Server Based in 2022.
 </p>
 
