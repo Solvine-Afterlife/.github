@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://discord.gg/solvinealterlife">
-    <img src="https://img.shields.io/discord/812150001089118210?label=Discord&color=5865F2" />
+    <img src="https://img.shields.io/discord/1034440353287241779?label=Discord&color=5865F2" />
   </a>
   <br />
 </p>
